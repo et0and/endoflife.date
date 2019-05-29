@@ -31,6 +31,8 @@ At a basic level, you could say that the work is about flowers (because that is 
 So their extravagance honours an extravagant loss. The cumulative effect is architectural, as of a series of massive niches in some light-soaked church. The bouquets are preserved - almost embalmed - in a strange, shadowless, creamy glow. They seem hyper-real yet untouchable, totally present yet out of time. And this tension - between the hallucinatory fullness of the blooms and the bell jar silence that contains them - is the source of their pathos.
 To arrange scentless, unwilting silk flowers is to commemorate stilled lives (silk is what military colours are made of). To seal those bouquets in a photograph is to make something twice stilled, twice removed. It is not just death but homelessness - the distance between body and land, an especially sacred relation for Maori - that these images mark and mourn so beautifully. The photographs are, you realize, virtual tombs, interring not bodies but absences. The exhibition is their mobile cenotaph.[^2]*
 
+---
+
 [^1]: Michael Parekowhai, "Armentieres", from *The Consolation of Philosophy / Piko nei te matenga* series (2001)
 
 [^2]: Justin Paton, [writing for Frieze in May 2002](https://frieze.com/article/michael-parekowhai)
