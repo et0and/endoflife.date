@@ -2,27 +2,28 @@
 layout: home
 ---
 
-We maintain quick links for checking End Of Life dates for various tools and technologies. Here's a quick list:
+*A magical wiki of art history terms and key words*
 
-- [endoflife.date/alpine](/alpine)
-- [endoflife.date/django](/django)
-- [endoflife.date/iphone](/iphone)
-- [endoflife.date/laravel](/laravel)
-- [endoflife.date/php](/php)
-- [endoflife.date/python](/python)
-- [endoflife.date/rhel](/rhel)
-- [endoflife.date/ubuntu](/ubuntu)
-- [endoflife.date/windows](/windows)
+## What is this?
+This wiki provides an overview for those looking to get a better understanding of key art terms. You can navigate by looking up words in the left-hand column, or by using the search bar.
 
-## Suggestion
+Site licensed cc-by-sa-4.0 unless otherwise noted.
 
-The reason this site exists is because this information is very often hidden away. If you're releasing something on a regular basis:
+#
 
-1. List only supported releases.
-2. Give EoL dates/policy if possible.
-3. Hide unsupported releases behind a few extra clicks.
-4. Mention security/active release difference if needed.
+## Lessons
 
-## Contributing
+[Lesson one](/alpine)
+- subject matter
+- meaning
+- context
+- symbols/symbolism (different types of symbols)
 
-Contributions are welcome [at GitHub](https://github.com/captn3m0/endoflife.date). See the `CONTRIBUTING.md` file for more details.
+[Lesson two](/django)
+- composition
+- perspective
+
+[Lesson three](/laravel)
+- space
+- depth
+- different types of spatial devices
