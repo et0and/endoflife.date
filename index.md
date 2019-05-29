@@ -9,7 +9,7 @@ This wiki provides an overview for those looking to get a better understanding o
 
 Site licensed cc-by-sa-4.0 unless otherwise noted.
 
-#
+---
 
 ## Lessons
 
@@ -19,9 +19,13 @@ Site licensed cc-by-sa-4.0 unless otherwise noted.
 - context
 - symbols/symbolism (different types of symbols)
 
+---
+
 [Lesson two](/django)
 - composition
 - perspective
+
+---
 
 [Lesson three](/laravel)
 - space

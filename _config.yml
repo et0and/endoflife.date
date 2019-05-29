@@ -1,7 +1,6 @@
-title: endoflife.date
+title: The Language of Art
 description: >- # this means to ignore newlines until "baseurl:"
-  Check End of Life of php, python, ubuntu, alpine, laravel etc at one place.
-  Verify whether your application needs an update, or if you need to upgrade your device.
+  A wiki to look over different art terms, and examples of each.
 baseurl: ""
 url: "https://endoflife.date" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
