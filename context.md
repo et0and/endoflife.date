@@ -35,7 +35,7 @@ So, to fully appreciate a painting like War or even Guernica, one needs to have 
 
 ### And in Kahukiwa's own words...
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aOdSpSi-YBs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="auto" src="https://www.youtube-nocookie.com/embed/aOdSpSi-YBs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From this video of Kahukiwa talking we learn the following contextual information about War:
 
